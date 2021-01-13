@@ -31,6 +31,8 @@ console.log('Divisão:', 10 / 5);
 
 //Identificadores padrão camelCase
 
+var saldoCompra;
+
 var c233xcsdf;
 
 var _fdfd;
@@ -39,7 +41,7 @@ var _2fdfd;
 var $1sdsd;
 var $asdsd;
 
-var saldoCompra;
+
 
 //não se deve inciar nome de variaveis com numeros
 
